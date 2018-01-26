@@ -1,0 +1,13 @@
+*.jar
+.settings
+.classpath
+.project
+classes
+target
+*.iml*.properties
+.idea
+*.iml
+.gitignore
+!/.gitignore
+*.cmd
+/mvnw
